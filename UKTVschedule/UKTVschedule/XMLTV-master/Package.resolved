@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LightXMLParser",
+        "repositoryURL": "https://github.com/Rubenfer/LightXMLParser.git",
+        "state": {
+          "branch": null,
+          "revision": "a6adb90467e6b847ae1abe2346ed027cc358c2ca",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

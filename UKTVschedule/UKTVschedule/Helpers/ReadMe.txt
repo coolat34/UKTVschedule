@@ -1,0 +1,1 @@
+UKTVscheduleThis app provides program details for TV channels from the GitHub data file, containing approximately 266 channels. The user picks a favourite selection from the list of channels. The list is stored in a SwiftData file. The user can decide when the programs should start and if they should view programs for today or tomorrow.
